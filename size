@@ -1,0 +1,4 @@
+/* Custom styles for the form */
+.container {
+    max-width: 600px;
+}
